@@ -4,7 +4,7 @@
 # In this task we need to calculate occurrences of each letter in every word in input file, then multiply *number
 #   of words where any letter ocurred twice* with *number of words where any letter occured 3 times*
 
-file = open("DATA_2_12.txt", "r")
+file = open("Data/2_12.txt", "r")
 
 array = []
 is_double = 0

@@ -4,7 +4,7 @@
 # We need to detect first frequency our device reaches twice. We are using the same data as in the previous
 #   task.
 
-file = open("problem1_1_12_DATA.txt", "r")
+file = open("Data/1_12.txt", "r")
 
 array = []
 search_array = []

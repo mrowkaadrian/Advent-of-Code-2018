@@ -5,7 +5,7 @@
 #   a number (positive or negative) in every single line. To calculate this, we need to add or subtract number of
 #   each line, starting from value: 0
 
-file = open("problem1_1_12_DATA.txt", "r")
+file = open("Data/1_12.txt", "r")
 
 array = []
 final_freq = 0
